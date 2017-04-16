@@ -9,6 +9,11 @@ github:
 author:
   name:              "Lili"
   email:             "gcreativefactory@gmail.com"
+  twitter:           "notwitter"
+  instagram:         "noinstagram"
+  github:            "gcreative"
+  facebook:          "nofacebook"
+  linkedin:          "nolinkedin"
 navigation:
 - title: Как заказать
   url: /about
