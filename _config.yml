@@ -15,10 +15,10 @@ author:
   facebook:          "nofacebook"
   linkedin:          "nolinkedin"
 navigation:
-- title: Как заказать
-  url: /about
 - title: Оглавление
   url: /writing
+  - title: Заказ
+  url: /about
 - title: Контакты
   url: /contact
 
