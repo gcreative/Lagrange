@@ -1,6 +1,6 @@
 # Site Settings
-title:               Lilimade
-tagline:             сделано с любовью
+title:               LiliToys
+tagline:             Игрушки от Лили
 description:
 baseurl:            #"/Lagrange"
 url:                #"https://lenpaul.github.io"
@@ -9,15 +9,10 @@ github:
 author:
   name:              "Lili"
   email:             "gcreativefactory@gmail.com"
-  twitter:           "notwitter"
-  instagram:         "noinstagram"
-  github:            "gcreative"
-  facebook:          "nofacebook"
-  linkedin:          "nolinkedin"
 navigation:
-- title: Идея
+- title: Как заказать
   url: /about
-- title: Истории
+- title: Оглавление
   url: /writing
 - title: Контакты
   url: /contact
