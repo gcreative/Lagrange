@@ -17,7 +17,7 @@ author:
 navigation:
 - title: Оглавление
   url: /writing
-  - title: Заказ
+- title: Заказ
   url: /about
 - title: Контакты
   url: /contact
